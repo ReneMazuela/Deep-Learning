@@ -1,2 +1,3 @@
 # Deep-Learning
-Some of my Deep Learning Projects
+Check out my Medium for more!
+https://medium.com/@ReneMazuela
